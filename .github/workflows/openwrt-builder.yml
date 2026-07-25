@@ -7,7 +7,7 @@ on:
 
 env:
   REPO_URL: https://github.com/padavanonly/immortalwrt
-  REPO_BRANCH: openwrt-24.10
+  REPO_BRANCH: master
   CONFIG_FILE: configs/k2p.config
   DIY_PART1: scripts/diy-part1.sh
   DIY_PART2: scripts/diy-part2.sh
